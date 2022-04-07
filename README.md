@@ -1,5 +1,7 @@
 # Computer-Network
 
+请使用Packet_Tracer 8.1以上版本进行查看
+
 ## 实验内容
 1. 单交换机实现基于端口的 VLAN 设计
 2. 跨交换机实现 VLAN 设计
